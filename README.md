@@ -8,7 +8,7 @@ Retro Bowl For School
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <link rel="shortcut icon" href="retro bowl.jpg" type="image">
-    <title>Retro Bowl | Alexx743</title>
+    <title>Retro Bowl | xxwinzaxx</title>
 </head>
 <body>
 
